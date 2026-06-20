@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Vivado generated directories
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.gen/
+*.ip_user_files/
+.Xil/
+
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.wdb
+*.bit
+*.ltx
+*.dcp
+*.rpt
+*.rpx
+*.pb
+*.wdf
+*.wpc
+
+# Temporary files
+*.tmp
